@@ -1,7 +1,7 @@
 Package.describe({
   name: 'glasser:test3676',
-  version: '0.0.1',
-  // Brief, one-line summary of the package.
+  version: '0.0.2',
+  // Brief, one-line summary of the packagem.
   summary: 'xxx',
   // URL to the Git repository containing the source code for this package.
   git: '',
